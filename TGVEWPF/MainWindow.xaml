@@ -1,0 +1,17 @@
+﻿<Window x:Class="TGVEWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TGVEWPF"
+        mc:Ignorable="d"
+        Title="The Grape Vine Experience" Height="450" Width="800">
+    <Grid>
+<<<<<<< HEAD
+        <Button Content="The Grape Vine Experience" HorizontalAlignment="Left" Margin="179,160,0,0" VerticalAlignment="Top" Width="409" FontSize="20" Click="Button_Click"/>
+=======
+        <TextBox HorizontalAlignment="Left" Height="67" FontSize="40" Margin="125,170,0,0" TextWrapping="Wrap" Text="THE GRAPE VINE EXPERIENCE" VerticalAlignment="Top" Width="562" TextChanged="TGVE_TextChanged" TextElement.Foreground="SeaGreen" FontStyle="Italic" FontWeight="DemiBold"/>
+>>>>>>> cfb414769fa15ba96b61e11b0b2c0a6ea84a6c3e
+
+    </Grid>
+</Window>

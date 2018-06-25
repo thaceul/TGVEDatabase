@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Booking] (Table)
+       [dbo].[Client] (Table)
+       [dbo].[Event] (Table)
+       [dbo].[Tour] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Booking] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Booking] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Event] (Foreign Key)
+       [dbo].[GenderMorF] (Check Constraint)
+
+** Supporting actions

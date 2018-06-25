@@ -1,9 +1,9 @@
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\bin\Debug\TGVEDatabase.dacpac
+C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\bin\Debug\TGVEDatabase.dll
+C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\bin\Debug\TGVEDatabase.pdb
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\Model.xml
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\refactor.xml
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\postdeploy.sql
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\predeploy.sql
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\TGVEDatabase.dll
 C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\obj\Debug\TGVEDatabase.pdb
-C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\bin\Debug\TGVEDatabase.dll
-C:\Users\STUDENT\Desktop\TGVEDatabase\TGVEDatabase\bin\Debug\TGVEDatabase.pdb
