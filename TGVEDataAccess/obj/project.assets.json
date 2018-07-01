@@ -215,27 +215,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\STUDENT\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Thaceu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TGVEDatabase\\TGVEDataAccess\\TGVEDataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Thaceu\\Desktop\\Uni\\Coding\\TGVEDatabase\\TGVEDataAccess\\TGVEDataAccess.csproj",
       "projectName": "TGVEDataAccess",
-      "projectPath": "E:\\TGVEDatabase\\TGVEDataAccess\\TGVEDataAccess.csproj",
-      "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "E:\\TGVEDatabase\\TGVEDataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Thaceu\\Desktop\\Uni\\Coding\\TGVEDatabase\\TGVEDataAccess\\TGVEDataAccess.csproj",
+      "packagesPath": "C:\\Users\\Thaceu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thaceu\\Desktop\\Uni\\Coding\\TGVEDatabase\\TGVEDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Thaceu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
