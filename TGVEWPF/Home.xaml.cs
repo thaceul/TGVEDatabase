@@ -10,7 +10,6 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-<<<<<<< HEAD
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
@@ -26,58 +25,12 @@ namespace TGVEWPF
                   InitializeComponent();
             }
 
-            private void Booking_Click(object sender, RoutedEventArgs e)
+            private void Button_Click(object sender, RoutedEventArgs e)
             {
-                  NavigationService.Navigate(Control.Booking);
-            }
+                  this.NavigationService.Navigate(new Uri("Booking.xaml", UriKind.Relative));
 
-            private void Tour_Click_1(object sender, RoutedEventArgs e)
-            {
-                  NavigationService.Navigate(Control.Tour);
-            }
-
-            private void Event_Click(object sender, RoutedEventArgs e)
-            {
-                  NavigationService.Navigate(Control.Events);
+                  Tour newpage = new Tour();
+                  this.NavigationService.Navigate(newpage);
             }
       }
-=======
-using System.Windows.Shapes;
-using System.Windows.Navigation;
-
-namespace TGVEWPF
-{
-    /// <summary>
-    /// Interaction logic for Home.xaml
-    /// </summary>
-    public partial class Home : Page
-    {
-        Control Control;
-        public Home()
-        {
-            InitializeComponent();
-            Control = new Control(this);
-        }
-
-        private void Events_Click(object sender, RoutedEventArgs e)
-        {
-            NavigationService.Navigate(Control.Event);
-        }
-
-        private void tours_Click(object sender, RoutedEventArgs e)
-        {
-            NavigationService.Navigate(Control.Tours);
-        }
-
-        private void Bookings_Click(object sender, RoutedEventArgs e)
-        {
-            NavigationService.Navigate(Control.Booking);
-        }
-  
-        private void home_Click(object sender, RoutedEventArgs e)
-        {
-            NavigationService.Navigate(Control.Home);
-        }
-    }
->>>>>>> cfb414769fa15ba96b61e11b0b2c0a6ea84a6c3e
 }

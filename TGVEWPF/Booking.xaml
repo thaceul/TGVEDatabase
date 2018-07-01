@@ -9,6 +9,7 @@
       Title="Booking">
 
     <Grid>
-        
+        <Label Content="Booking Here" HorizontalAlignment="Left" Margin="307,139,0,0" VerticalAlignment="Top" FontSize="25"/>
+
     </Grid>
 </Page>

@@ -12,32 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using System.Net.Http;
-using Newtonsoft.Json;
 
 namespace TGVEWPF
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
-
-<<<<<<< HEAD
-            private void Button_Click(object sender, RoutedEventArgs e)
+      /// <summary>
+      /// Interaction logic for MainWindow.xaml
+      /// </summary>
+      public partial class MainWindow : Window
+      {
+            public MainWindow()
             {
-                  NavigationService.Navigate(Control.Home);
+                  InitializeComponent();
             }
       }
-=======
-        private void TGVE_TextChanged(object sender, TextChangedEventArgs e)
-        {
-                NavigationService.Navigate(Control.Home);
-        }
-    }
->>>>>>> cfb414769fa15ba96b61e11b0b2c0a6ea84a6c3e
 }
